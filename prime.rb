@@ -1,3 +1,3 @@
 def prime(n)
-  if 
+  if n <= 1 
 end  

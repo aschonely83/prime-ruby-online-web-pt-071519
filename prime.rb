@@ -1,5 +1,6 @@
 def prime(n)
   if n <= 1 
     false
-  elsif   
+  elsif n == 2 
+  
 end  
